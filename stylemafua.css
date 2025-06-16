@@ -696,12 +696,13 @@ footer{
     .nav{
         display: none;
     }
-
     .logoimg{
-        margin-left: -3rem;
+        margin-left: -2rem;
     }
-
-     .pedido{
+    .cabecalho .pedido{
         display: none;
+    }
+    .redes{
+        margin-right: -1rem;
     }
 }
