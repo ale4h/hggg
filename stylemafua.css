@@ -705,7 +705,8 @@ footer{
         margin-right: -1rem;
     }
     .conteudo{
-        width: 10px;
+        width: 10vw;
+        margin: auto;
     }
     .conteudo .imagem-esquerda{
         display: none;
