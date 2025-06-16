@@ -208,7 +208,6 @@ body{
     width: 100%;
 }
 .imagem-larissa{
-    background-color: #b18d0b;
     width: 33.5vw;
     height: 92vh;
     display: flex;
@@ -219,7 +218,6 @@ body{
     flex-direction: column;
 }
 .texto4{
-    background-color: rgba(0, 255, 255, 0.274);
     font-family: Special Elite, serif, Arial, Helvetica, sans-serif;
     font-size: 1.88rem;
     color: white;
@@ -227,7 +225,6 @@ body{
     margin-top: 12vh;
 }
 .texto5{
-    background-color: rgba(128, 0, 128, 0.226);
     font-family: Pompiere, Arial, Helvetica, sans-serif;
     font-size: 1.45rem;
     color: #ede7d4;
@@ -235,7 +232,6 @@ body{
     z-index: 1;
 }
 .texto6{
-    background-color: rgba(255, 192, 203, 0.295);
     font-family: Special Elite, serif, Arial, Helvetica, sans-serif;
     font-size: 1.88rem;
     color: white;
@@ -244,7 +240,6 @@ body{
     width: 56.78vw;
 }
 .texto7{
-    background-color: rgba(255, 0, 255, 0.24);
     font-family: Pompiere, Arial, Helvetica, sans-serif;
     font-size: 1.45rem;
     color: #ede7d4;
@@ -747,7 +742,7 @@ footer{
         margin-top: 11vh;
     }
     #sobre{
-        height: 200vh;
+        height: 100vh;
         display: flex;
         justify-content: center;
         align-items: center;
@@ -757,8 +752,26 @@ footer{
         justify-content: center;
         align-items: center;
         width: 40vw;
+        height: 50vh;
+        margin-top: -15vh;
     }
     .imagem-larissa img{
-        width: 100%;
+        width: 50vw;
+    }
+    .texto4{
+        font-size: 1rem;
+        margin-top: -10vh;
+    }
+    .texto5{
+        font-size: 0.8rem;
+        width: 70vw;
+    }
+    .texto6{
+        font-size: 1rem;
+        width: 68vw;
+    }
+    .texto7{
+        font-size: 0.8rem;
+        width: 68vw;
     }
 }
