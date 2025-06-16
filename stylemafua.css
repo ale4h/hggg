@@ -251,7 +251,6 @@ body{
 
 }
 .texto8{
-    background-color: chocolate;
     font-family: Special Elite, serif, Arial, Helvetica, sans-serif;
     font-size: 0.75rem;
     font-weight: bold;
@@ -748,30 +747,28 @@ footer{
         align-items: center;
     }
     .imagem-larissa{
-        display: flex;
-        justify-content: center;
-        align-items: center;
-        width: 40vw;
-        height: 50vh;
-        margin-top: -15vh;
-    }
-    .imagem-larissa img{
-        width: 50vw;
+        display: none;
     }
     .texto4{
         font-size: 1rem;
         margin-top: -10vh;
     }
     .texto5{
-        font-size: 0.8rem;
-        width: 70vw;
+        font-size: 0.85rem;
+        width: 80vw;
     }
     .texto6{
         font-size: 1rem;
-        width: 68vw;
+        width: 78vw;
+        margin-right: -50vw;
     }
     .texto7{
         font-size: 0.8rem;
         width: 68vw;
     }
+    .texto8{
+        font-size: 0.55rem;
+        width: 69vw;
+    }
+    .
 }
