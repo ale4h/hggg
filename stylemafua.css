@@ -45,7 +45,6 @@ body{
     flex-direction: row;
     justify-content: space-around;
     margin-top: 10px;
-    background-color: #586a40;
 }
 .logoimg{
     height: 70px;
@@ -704,5 +703,11 @@ footer{
     }
     .redes{
         margin-right: -1rem;
+    }
+    .imagem-esquerda{
+        display: none;
+    }
+    .imagem-direita{
+        display: none;
     }
 }
