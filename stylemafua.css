@@ -55,7 +55,7 @@ body{
 .logoimg img{
     height: 70px;
 }
-@media (max-width: 768px){
+@media (max-width: 1080px){
     .logoimg{
         margin-left: -3rem;
     }
@@ -91,7 +91,7 @@ body{
 .menu:hover{
     font-size: 33px;
 }
-@media (max-width: 768px){
+@media (max-width: 1080px){
     .nav{
         display: none;
     }
@@ -117,7 +117,7 @@ body{
 .cabecalho .pedido:hover{
     background-color: #b18d0b;
 }
-@media (max-width: 768px){
+@media (max-width: 1080px){
     .pedido{
         display: none
     }
