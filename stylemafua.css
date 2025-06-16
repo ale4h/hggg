@@ -15,7 +15,7 @@ html{
     box-sizing: border-box;
 }
 body{
-    max-width: 1920px;
+    max-width: 2560px;
     min-width: 320px;
     display: flex;
     flex-direction: column;
@@ -48,8 +48,9 @@ body{
     background-color: #586a40;
 }
 .logoimg{
-    height: 100px;
-    margin-left: 80px;
+    background-color: #d4a70c;
+    height: 70px;
+    margin-left: clamp(2rem, 5vw, 1rem);
 }
 .logoimg img{
     height: 70px;
