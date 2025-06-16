@@ -130,7 +130,6 @@ body{
     display: flex;
     flex-direction: row;
     top: 0;
-    background-color: #d4a70c;
 }
 .imagem-esquerda{
     width: 310px;
@@ -139,7 +138,6 @@ body{
     height: 650px;
 }
 .caixa-texto{
-    background-color: #7d995c;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -156,7 +154,6 @@ body{
     margin-left: -21vw;
 }
 .texto2{
-    background-color: #ebe2c4;
     font-family: 'AmsterdamThreeSlant', cursive;
     font-size: 5.9rem;
     height: 7.9vh;
@@ -164,7 +161,6 @@ body{
     align-items: center;
 }
 .texto3{
-    background-color: aqua;
     font-family: Pompiere, Arial, Helvetica, sans-serif;
     font-size: 1.4rem;
     margin-top: 15.5vh;
@@ -208,12 +204,13 @@ body{
     position: relative;
     background-color: #586a40;
     z-index: -2;
-    height: 685px;
+    height: 105.2vh;
     width: 100%;
 }
 .imagem-larissa{
-    width: 458px;
-    height: 600px;
+    background-color: #b18d0b;
+    width: 33.5vw;
+    height: 92vh;
     display: flex;
     align-items: center;
 }
