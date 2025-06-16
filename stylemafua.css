@@ -693,6 +693,17 @@ footer{
 /* RESPONSIVIDADE */
 
 @media (max-width: 1080px){
+    body{
+        margin: auto;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    #home{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
     .nav{
         display: none;
     }
@@ -706,7 +717,7 @@ footer{
         margin-right: -1rem;
     }
     .conteudo{
-        width: 10vw;
+        width: 90vw;
         margin: auto;
     }
     .conteudo .imagem-esquerda{
@@ -715,5 +726,6 @@ footer{
     .conteudo .imagem-direita{
         display: none;
     }
+    
     
 }
