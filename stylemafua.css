@@ -139,14 +139,14 @@ body{
     height: 650px;
 }
 .caixa-texto{
+    background-color: #7d995c;
     display: flex;
     align-items: center;
     justify-content: center;
     flex-direction: column;
-    gap: 1px;
-    width: 700px;
+    width: 52vw;
     color: white;
-    margin-top: 90px;
+    margin-top: 14vh;
 }
 .texto1{
     font-family: Pompiere, Arial, Helvetica, sans-serif;
@@ -719,6 +719,7 @@ footer{
     .conteudo{
         width: 90vw;
         margin: auto;
+        justify-content: center;
     }
     .conteudo .imagem-esquerda{
         display: none;
@@ -726,6 +727,8 @@ footer{
     .conteudo .imagem-direita{
         display: none;
     }
-    
+    .caixa-texto{
+        width: 87vw;
+    }
     
 }
