@@ -219,48 +219,53 @@ body{
     flex-direction: column;
 }
 .texto4{
+    background-color: aqua;
     font-family: Special Elite, serif, Arial, Helvetica, sans-serif;
-    font-size: 30px;
+    font-size: 1.88rem;
     color: white;
-    width: 500px;
-    margin-top: 75px;
+    width: 35vw;
+    margin-top: 12vh;
 }
 .texto5{
+    background-color: purple;
     font-family: Pompiere, Arial, Helvetica, sans-serif;
-    font-size: 23.2px;
+    font-size: 1.45rem;
     color: #ede7d4;
-    width: 860px;
+    width: 63vw;
     z-index: 1;
 }
 .texto6{
+    background-color: pink;
     font-family: Special Elite, serif, Arial, Helvetica, sans-serif;
-    font-size: 30px;
+    font-size: 1.88rem;
     color: white;
     display: flex;
     justify-content: right;
-    width: 775px;
+    width: 56.78vw;
 }
 .texto7{
+    background-color: magenta;
     font-family: Pompiere, Arial, Helvetica, sans-serif;
-    font-size: 23.2px;
+    font-size: 1.45rem;
     color: #ede7d4;
     display: flex;
     flex-direction: column;
     text-align: right;
-    width: 775px;
-    gap: 20px;
+    width: 56.78vw;
+    gap: 3vh;
 
 }
 .texto8{
+    background-color: chocolate;
     font-family: Special Elite, serif, Arial, Helvetica, sans-serif;
-    font-size: 12px;
+    font-size: 0.75rem;
     font-weight: bold;
     color: #d4a70c;
     display: flex;
     justify-content: right;
-    width: 775px;
-    margin-top: 5px;
-    margin-left: -35px;
+    width: 56.78vw;
+    margin-top: 0.8vh;
+    margin-left: -2.56vw;
 }
 .folha-direita-sobre{
     width: 25px;
