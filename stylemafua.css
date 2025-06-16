@@ -126,7 +126,7 @@ body{
     font-size: 38px;
 }
 .conteudo{
-    height: 600px;
+    height: 85vh;
     display: flex;
     flex-direction: row;
     top: 0;
@@ -704,10 +704,14 @@ footer{
     .redes{
         margin-right: -1rem;
     }
-    .imagem-esquerda{
+    .conteudo{
+        width: 30px;
+    }
+    .conteudo .imagem-esquerda{
         display: none;
     }
-    .imagem-direita{
+    .conteudo .imagem-direita{
         display: none;
     }
+    
 }
