@@ -130,6 +130,7 @@ body{
     display: flex;
     flex-direction: row;
     top: 0;
+    background-color: #d4a70c;
 }
 .imagem-esquerda{
     width: 310px;
