@@ -732,5 +732,16 @@ footer{
     .caixa-texto{
         width: 87vw;
     }
-    
+    .texto1{
+        font-size: 1rem;
+        margin-left: -49vw;
+    }
+    .texto2{
+        font-size: 3.5rem;
+        height: 5vh;
+    }
+    .texto3{
+        font-size: 0.85rem;
+        margin-top: 11vh;
+    }
 }
