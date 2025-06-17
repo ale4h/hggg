@@ -841,17 +841,28 @@ footer{
     .direita{
         width: 50%;
     }
+    .chapeu{
+        margin-top: 19.7vh;
+        margin-left: 3vw;
+    }
+    .chapeu img{
+        width: 35vw;
+    }
     .caixa-texto3{
         margin-right: 3vw;
+        margin-top: 25vh;
     }
     .texto10{
         font-size: 1rem;
-
     }
     .p4{
         font-size: 1.21rem;
     }
     .p5{
         font-size: 1.1rem;
+    }
+
+    .redes3 ul li button i{
+        font-size: xx-large;
     }
 }
