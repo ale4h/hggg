@@ -930,10 +930,54 @@ footer{
     .p4{
         font-size: 1.35rem;
     }
+    .pe5{
+        margin-top: 1vh;
+    }
+    .pe5 li{
+        font-size: 1.18rem;
+    }
+    .pe6{
+        width: 22vw;
+        font-size: 1.20rem;
+        margin-top: -33.5vh;
+        margin-left: 69vw;
+    }
+    .pe7{
+        font-size: 1.4rem;
+    }
     .img-meio{
         display: none;
     }
+    .caixa-meio{
+        width: 100%;
+        justify-content: center;
+        align-items: center;
+    }
+    .botao-pedido{
+        width: 63vw;
+        margin-top: 5vh;
+        font-size: 1.1rem;
+    }
+    .caixa-drt{
+        display: flex;
+        flex-direction: column;
+        width: 100%;
+        justify-content: center;
+        align-items: center;
+    }
     .imagem-drt{
         display: none;
+    }
+    .title-menu{
+        display: none;
+    }
+    .title-lasanha{
+        margin-top: 7vh;
+        font-size: 0.95rem;
+        width: 50vw;
+    }
+    .caixa-texto-drt{
+        width: 87vw;
+        margin-left: -3vw;
     }
 }
