@@ -994,7 +994,7 @@ footer{
     }
     .pd5{
         margin-top: 2vh;
-        margin-left: ;
+        margin-left: 19vw;
         width: 50vw;
         font-size: 1.35rem;
     }
@@ -1005,7 +1005,11 @@ footer{
         width: 96vw;
     }
     footer{
-        margin-top: ;
+        margin-top: 20vh;
+        margin-left: -5vw;
+    }
+    footer p{
+        font-size: 0.6rem;
     }
     .qrcode{
         display: none;
