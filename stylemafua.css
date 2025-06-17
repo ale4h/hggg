@@ -724,6 +724,7 @@ footer{
 
 @media (max-width: 1080px){
     body{
+        max-width: 1080px;
         margin: auto;
         display: flex;
         justify-content: center;
