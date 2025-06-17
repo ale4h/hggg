@@ -706,6 +706,7 @@ footer{
         align-items: center;
     }
     #home{
+        width: 100%;
         display: flex;
         justify-content: center;
         align-items: center;
@@ -759,13 +760,13 @@ footer{
     .texto4{
         font-size: 1rem;
         width: 50vw;
-        margin-left: -8vw;
+        margin-left: -4vw;
         margin-top: 4vh;
     }
     .texto5{
         font-size: 0.85rem;
         width: 80vw;
-        margin-left: -8vw;
+        margin-left: -4vw;
     }
     .texto6{
         font-size: 1rem;
@@ -779,10 +780,12 @@ footer{
     }
     .texto8{
         font-size: 0.55rem;
-        width: 69vw;
+        width: 79vw;
+        margin-right: 4vw;
     }
     .folha-direita-sobre{
         margin-left: 99vw;
+        margin-top: 41vh;
     }
     .folha-direita-sobre img{
         width: 250vw;
