@@ -645,14 +645,14 @@ body{
 
 .pd2 li{
     margin-top: 0.8vh;
-    font-size: 20px;
+    font-size: 1.25rem;
 }
 
 .pd3{
     display: flex;
     margin-top: 15px;
     color: white;
-    font-size: 23px;
+    font-size: 1.44rem;
     background-color: rgba(137, 43, 226, 0.397);
 }
 
@@ -666,16 +666,16 @@ body{
 
 .pd4 li{
     margin-top: 0.8vh;
-    font-size: 20px;
+    font-size: 1.25rem;
 }
 
 .pd5{
-    margin-top: 20px;
+    margin-top: 3.2vh;
     display: flex;
-    font-size: 25px;
+    font-size: 1.56rem;
     color: #d4a70c;
     text-align: right;
-    margin-left: 20px;
+    margin-left: 1.46vw;
     background-color: rgba(0, 0, 0, 0.37);
 }
 
@@ -709,7 +709,7 @@ footer{
     display: flex;
     justify-content: center;
     align-items: center;
-    height: 70px;
+    height: 11.2vh;
     background-color: rgba(0, 255, 255, 0.288);
 }
 
