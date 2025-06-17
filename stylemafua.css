@@ -822,10 +822,36 @@ footer{
     font-size: 3.3rem;
     }
     .caixa-texto2{
+        width: 46vw;
         margin-top: 2vh;
-        margin-left: 5vw;
+        margin-left: 3vw;
+    }
+    .texto9{
+        font-size: 1rem;
+    }
+    .p1{
+        font-size: 1.21rem;
+    }
+    .p2{
+        font-size: 1.1rem;
+    }
+    .p3{
+        font-size: 1.1rem;
     }
     .direita{
         width: 50%;
+    }
+    .caixa-texto3{
+        margin-right: 3vw;
+    }
+    .texto10{
+        font-size: 1rem;
+
+    }
+    .p4{
+        font-size: 1.21rem;
+    }
+    .p5{
+        font-size: 1.1rem;
     }
 }
