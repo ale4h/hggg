@@ -202,7 +202,6 @@ body{
 #sobre{
     display: flex;
     position: relative;
-    background-color: #00000044;
     z-index: -2;
     height: 105.2vh;
     width: 100%;
@@ -223,7 +222,6 @@ body{
     color: white;
     width: 35vw;
     margin-top: 12vh;
-    background-color: #b18d0b56;
 }
 .texto5{
     font-family: Pompiere, Arial, Helvetica, sans-serif;
@@ -231,7 +229,6 @@ body{
     color: #ede7d4;
     width: 63vw;
     z-index: 1;
-    background-color: rgba(0, 255, 255, 0.158);
 }
 .texto6{
     font-family: Special Elite, serif, Arial, Helvetica, sans-serif;
@@ -240,7 +237,6 @@ body{
     display: flex;
     justify-content: right;
     width: 56.78vw;
-    background-color: rgba(0, 0, 0, 0.37);
 }
 .texto7{
     font-family: Pompiere, Arial, Helvetica, sans-serif;
@@ -251,7 +247,6 @@ body{
     text-align: right;
     width: 56.78vw;
     gap: 3vh;
-    background-color: rgba(128, 0, 128, 0.247);
 
 }
 .texto8{
@@ -264,14 +259,12 @@ body{
     width: 56.78vw;
     margin-top: 0.8vh;
     margin-left: -2.56vw;
-    background-color: rgba(255, 68, 0, 0.247);
 }
 .folha-direita-sobre{
     width: 25px;
     display: flex;
     justify-content: right;
     margin-right: 50px;
-    background-color: rgba(250, 235, 215, 0.205);
     z-index: -1;
     position: absolute;
 }
@@ -289,16 +282,17 @@ body{
     display: flex;
     flex-direction: column;
     width: 60%;
+    background-color: rgba(0, 0, 0, 0.452);
 }
 .logo-redes{
-    margin-top: 15px;
+    margin-top: 2.4vh;
     z-index: 1;
 }
 .redes2{
-    width: 150px;
-    height: 60px;
-    margin-left: 130px;
-    margin-top: -10px;
+    width: 10.99vw;
+    height: 9.6vh;
+    margin-left: 9.52vw;
+    margin-top: -1.6vh;
     z-index: 1;
 }
 .redes2 ul{
@@ -310,23 +304,23 @@ body{
 }
 .redes2 ul li button{
     border: none;
-    height: 0px;
-    margin-top: 17px;
+    height: 0vh;
+    margin-top: 2.72vh;
 }
 .redes2 ul li button i{
     font-size: xxx-large;
 }
 .WhatsApp2 i:hover{
-    font-size: 60px;
+    font-size: 3.75rem;
 }
 .Instagram2 i:hover{
-    font-size: 60px;
+    font-size: 3.75rem;
 }
 .caixa-texto2{
     display: flex;
     flex-direction: column;
     width: 50%;
-    margin-left: 370px;
+    margin-left: 27.11vw;
     margin-top: -240px;
     z-index: 1;
 }
