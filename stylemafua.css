@@ -464,8 +464,8 @@ body{
 .caixa-texto-esq{
     display: flex;
     flex-direction: column;
-    width: 400px;
-    margin-left: 170px;
+    width: 29.3vw;
+    margin-left: 12.45vw;
     font-family: Pompiere, Arial, Helvetica, sans-serif;
     color: #ede7d4;
     background-color: rgba(0, 0, 0, 0.301);
@@ -473,29 +473,29 @@ body{
 
 .pe1{
     display: flex;
-    margin-top: 20px;
+    margin-top: 3.2vh;
     font-family: Pompiere, Arial, Helvetica, sans-serif;
     color: #d4a70c;
-    font-size: 20px;
+    font-size: 1.25rem;
     background-color: rgba(128, 0, 128, 0.322);
 }
 
 .pe2{
     display: flex;
     flex-direction: column;
-    margin-left: 20px;
+    margin-left: 1.46vw;
     background-color: rgba(231, 6, 194, 0.39);
 }
 
 .pe2 li{
-    margin-top: 5px;
-    font-size: 20px;
+    margin-top: 0.8vh;
+    font-size: 1.25rem;
 }
 
 .pe3{
     display: flex;
-    margin-left: 280px;
-    margin-top: -125px;
+    margin-left: 20.51vw;
+    margin-top: -20vh;
     color: white;
     font-size: 20px;
     background-color: #d4a90c4f;
@@ -503,41 +503,41 @@ body{
 
 .pe4{
     display: flex;
-    margin-top: 15px;
+    margin-top: 2.4vh;
     color: white;
-    font-size: 23px;
+    font-size: 1.44rem;
     background-color: rgba(165, 42, 42, 0.349);
 }
 
 .pe5{
     display: flex;
     flex-direction: column;
-    margin-top: 15px;
-    margin-left: 20px;
+    margin-top: 2.4vh;
+    margin-left: 1.46vw;
     background-color: rgba(216, 112, 147, 0.349);
 }
 
 .pe5 li{
-    margin-top: 5px;
-    font-size: 20px;
+    margin-top: 0.8vh;
+    font-size: 1.25rem;
 }
 
 .pe6{
     display: flex;
     flex-direction: column;
-    margin-left:280px ;
-    margin-top: -198px;
+    margin-left: 20.51vw;
+    margin-top: -31.68vh;
     color: white;
-    font-size: 20px;
+    font-size: 1.25rem;
     gap: 5px;
     list-style: point;
     background-color: rgba(184, 135, 11, 0.342);
 }
 
 .pe7{
-    margin-top: 15px;
+    margin-top: 2.4vh;
     color: #d4a70c;
-    font-size: 25px;
+    font-size: 1.56rem;
     background-color: rgba(0, 0, 0, 0.445);
 }
 
@@ -573,8 +573,8 @@ body{
 
 .botao-pedido{
     justify-content: center;
-    height: 50px;
-    width: 200px;
+    height: 8vh;
+    width: 14.65vw;
     margin-top: 545px;
     border-radius: 100px;
     padding: 20px;
@@ -585,7 +585,7 @@ body{
     border: none;
     color: white;
     font-family: Special Elite, serif, Arial, Helvetica, sans-serif;
-    font-size: 19px;
+    font-size: 1.19rem;
 }
 .botao-pedido:hover{
     background-color: #d4a70c;
@@ -596,9 +596,9 @@ body{
     flex-direction: row;
     font-family: Special Elite, serif, Arial, Helvetica, sans-serif;
     color: white;
-    margin-left: 15px;
-    margin-top: 70px;
-    font-size: 25px;
+    margin-left: 1.1vw;
+    margin-top: 11vh;
+    font-size: 1.56rem;
     background-color: #02ff418a;
 }
 
@@ -606,22 +606,22 @@ body{
     display: flex;
     justify-content: center;
     align-items: center;
-    width: 180px;
-    height: 60px;
+    width: 13.19vw;
+    height: 9.6vh;
     position: relative;
     justify-content: center;
     border: 2px solid white;
     color: white;
     border-radius: 1000px;
     font-family: Special Elite, serif, Arial, Helvetica, sans-serif;
-    font-size: 15px;
-    margin-top: 105px;
+    font-size: 0.94rem;
+    margin-top: 16.8vh;
 }
 
 .caixa-texto-drt{
     display: flex;
     flex-direction: column;
-    width: 400px;
+    width: 29.3vw;
     font-family: Pompiere, Arial, Helvetica, sans-serif;
     color: #ede7d4;
     background-color: rgba(222, 184, 135, 0.562);
@@ -630,21 +630,21 @@ body{
 .pd1{
     display: flex;
     color: white;
-    font-size: 23px;
-    margin-top: 10px;
+    font-size: 1.44rem;
+    margin-top: 1.6vh;
     background-color: rgba(216, 112, 147, 0.397);
 }
 
 .pd2{
     display: flex;
     flex-direction: column;
-    margin-top: 5px;
-    margin-left: 20px;
+    margin-top: 0.8vh;
+    margin-left: 1.46vw;
     background-color: rgba(0, 0, 255, 0.342);
 }
 
 .pd2 li{
-    margin-top: 5px;
+    margin-top: 0.8vh;
     font-size: 20px;
 }
 
@@ -659,13 +659,13 @@ body{
 .pd4{
     display: flex;
     flex-direction: column;
-    margin-top: 5px;
-    margin-left: 20px;
+    margin-top: 0.8vh;
+    margin-left: 1.46vw;
     background-color: rgba(95, 158, 160, 0.493);
 }
 
 .pd4 li{
-    margin-top: 5px;
+    margin-top: 0.8vh;
     font-size: 20px;
 }
 
@@ -897,12 +897,24 @@ footer{
     .esq-cima{
         display: none;
     }
+    .esq-baixo{
+        display: none;
+    }
     .title-combo{
         font-size: 0.8rem;
         width: 65vw;
         margin-top: 5vh;
     }
+    .caixa-texto-esq{
+
+    }
+    .pe1{
+
+    }
     .img-meio{
+        display: none;
+    }
+    .imagem-drt{
         display: none;
     }
 }
