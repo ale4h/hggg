@@ -794,7 +794,7 @@ footer{
     }
     .redes-sobre{
         width: 100%;
-        height: 120vh;
+        height: 81vh;
         display: flex;
         justify-content: center;
     }
@@ -809,8 +809,8 @@ footer{
         width: 200vw;
     }
     .redes2{
-        margin-top: 1vh;
-        margin-left: 20vw;
+        margin-top: vh;
+        margin-left: 44vw;
     }
     .redes2 ul li button i{
     font-size: xx-large;
@@ -823,7 +823,7 @@ footer{
     }
     .caixa-texto2{
         width: 46vw;
-        margin-top: 2vh;
+        margin-top: 4.5vh;
         margin-left: 3vw;
     }
     .texto9{
@@ -842,7 +842,7 @@ footer{
         width: 50%;
     }
     .chapeu{
-        margin-top: 19.7vh;
+        margin-top: 28.7vh;
         margin-left: 3vw;
     }
     .chapeu img{
@@ -850,7 +850,7 @@ footer{
     }
     .caixa-texto3{
         margin-right: 3vw;
-        margin-top: 25vh;
+        margin-top: 33.9vh;
     }
     .texto10{
         font-size: 1rem;
@@ -861,8 +861,7 @@ footer{
     .p5{
         font-size: 1.1rem;
     }
-
-    .redes3 ul li button i{
-        font-size: xx-large;
+    .redes3{
+        display: none;
     }
 }
