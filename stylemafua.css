@@ -981,6 +981,33 @@ footer{
         margin-left: -3vw;
     }
     .pd1{
-        font-size: 1.4rem;
+        font-size: 1.3rem;
+    }
+    .pd2 li{
+        font-size: 1.25rem;
+    }
+    .pd3{
+        font-size: 1.3rem;
+    }
+    .pd4 li{
+        font-size: 1.25rem;
+    }
+    .pd5{
+        margin-top: 2vh;
+        margin-left: ;
+        width: 50vw;
+        font-size: 1.35rem;
+    }
+    .carrossel{
+        margin-top: 5vh;
+    }
+    .carrossel img{
+        width: 96vw;
+    }
+    footer{
+        margin-top: ;
+    }
+    .qrcode{
+        display: none;
     }
 }
