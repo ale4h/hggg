@@ -925,7 +925,7 @@ footer{
     .pe3{
         width: 20vw;
         font-size: 1.23rem;
-        margin-top: -10vh;
+        margin-top: -15vh;
         margin-left: 69vw;
     }
     .pe4{
@@ -941,11 +941,11 @@ footer{
     .pe6{
         width: 22vw;
         font-size: 1.20rem;
-        margin-top: -23.5vh;
+        margin-top: -21.5vh;
         margin-left: 69vw;
     }
     .pe7{
-        margin-top: 5vh;
+        margin-top: 2vh;
         font-size: 1.4rem;
     }
     .img-meio{
@@ -1008,6 +1008,7 @@ footer{
         width: 96vw;
     }
     footer{
+        margin-top: -20vh;
         margin-left: -5vw;
     }
     footer p{
