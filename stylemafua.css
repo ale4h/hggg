@@ -287,6 +287,7 @@ body{
 .logo-redes{
     margin-top: 2.4vh;
     z-index: 1;
+    background-color: rgba(255, 192, 203, 0.226);
 }
 .redes2{
     width: 10.99vw;
@@ -321,32 +322,32 @@ body{
     flex-direction: column;
     width: 50%;
     margin-left: 27.11vw;
-    margin-top: -240px;
+    margin-top: -37vh;
     z-index: 1;
 }
 .texto9{
     font-family: Special Elite, serif, Arial, Helvetica, sans-serif;
-    font-size: 28px;
+    font-size: 1.75rem;
     color: white;
 }
 .subtexto{
     display: flex;
     flex-direction: column;
-    margin-top: 5px;
-    margin-left: 10px;
+    margin-top: 0.8vh;
+    margin-left: 0.75vw;
     font-family: Pompiere, Arial, Helvetica, sans-serif;
     gap: 5px;
 }
 .p1{
-    font-size: 25px;
+    font-size: 1.56rem;
     color: #ebe2c4;
 }
 .p2{
-    font-size: 21px;
+    font-size: 1.31rem;
     color: white;
 }
 .p3{
-    font-size: 21px;
+    font-size: 1.31rem;
     color: #ebe2c4;
 }
 .direita{
@@ -360,39 +361,39 @@ body{
     justify-content: center;
     align-items: center;
     position: absolute;
-    height: 50px;
-    width: 100px;
-    margin-top: 63px;
-    margin-left: 169px;
+    height: 8vh;
+    width: 7.33vw;
+    margin-top: 9.8vh;
+    margin-left: 12.38vw;
     z-index: 1;
 }
 .chapeu img{
-    width: 300px;
+    width: 21.98vw;
 }
 .caixa-texto3{
-    margin-right: 90px;
-    margin-top: 100px;
+    margin-right: 6.59vw;
+    margin-top: 15.4vh;
 }
 .texto10{
     font-family: Special Elite, serif, Arial, Helvetica, sans-serif;
-    font-size: 28px;
+    font-size: 1.75rem;
     color: white;
 }
 .subtexto2{
     font-family: Pompiere, Arial, Helvetica, sans-serif;
 }
 .p4{
-    font-size: 25px;
+    font-size: 1.56rem;
     color: #ebe2c4;
 }
 .p5{
-    font-size: 21px;
+    font-size: 1.31rem;
     color: white;
 }
 .redes3{
-    width: 150px;
-    height: 60px;
-    margin-left: 320px;
+    width: 10.99vw;
+    height: 9,6vh;
+    margin-left: 23.44vw;
     z-index: 1;
 }
 .redes3 ul{
@@ -404,17 +405,17 @@ body{
 }
 .redes3 ul li button{
     border: none;
-    height: 0px;
-    margin-top: 17px;
+    height: 0vh;
+    margin-top: 2.72vh;
 }
 .redes3 ul li button i{
     font-size: xxx-large;
 }
 .WhatsApp3 i:hover{
-    font-size: 60px;
+    font-size: 3.75rem;
 }
 .Instagram3 i:hover{
-    font-size: 60px;
+    font-size: 3.75rem;
 }
 
 
@@ -780,5 +781,17 @@ footer{
     }
     .folha-direita-sobre img{
         width: 200vw;
+    }
+    .redes-sobre{
+        width: 100%;
+        height: 120vh;
+        display: flex;
+        justify-content: center;
+    }
+    .esquerda{
+        width: 50%;
+    }
+    .direita{
+        width: 50%;
     }
 }
