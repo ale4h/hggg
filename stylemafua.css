@@ -484,13 +484,12 @@ body{
     display: flex;
     flex-direction: column;
     margin-left: 20px;
-    background-color: rgba(74, 2, 88, 0.39);
+    background-color: rgba(231, 6, 194, 0.39);
 }
 
 .pe2 li{
     margin-top: 5px;
     font-size: 20px;
-    background-color: ;
 }
 
 .pe3{
@@ -499,6 +498,7 @@ body{
     margin-top: -125px;
     color: white;
     font-size: 20px;
+    background-color: #d4a90c4f;
 }
 
 .pe4{
@@ -506,6 +506,7 @@ body{
     margin-top: 15px;
     color: white;
     font-size: 23px;
+    background-color: rgba(165, 42, 42, 0.349);
 }
 
 .pe5{
@@ -513,6 +514,7 @@ body{
     flex-direction: column;
     margin-top: 15px;
     margin-left: 20px;
+    background-color: rgba(216, 112, 147, 0.349);
 }
 
 .pe5 li{
@@ -529,18 +531,21 @@ body{
     font-size: 20px;
     gap: 5px;
     list-style: point;
+    background-color: rgba(184, 135, 11, 0.342);
 }
 
 .pe7{
     margin-top: 15px;
     color: #d4a70c;
     font-size: 25px;
+    background-color: rgba(0, 0, 0, 0.445);
 }
 
 .esq-baixo{
     display: flex;
     margin-top: -125px;
     z-index: -2;
+    background-color: rgba(255, 255, 0, 0.171);
 }
 .esq-baixo img{
     display: flex;
@@ -552,12 +557,14 @@ body{
     flex-direction: column;
     align-items: center;
     width: 22%;
+    background-color: #49406a6c;
 }
 .img-meio{
     display: flex;
     justify-content: center;
     align-items: center;
     height: 200px;
+    background-color: rgba(255, 2, 2, 0.164);
 }
 .img-meio img{
     width: 270px;
@@ -592,6 +599,7 @@ body{
     margin-left: 15px;
     margin-top: 70px;
     font-size: 25px;
+    background-color: #02ff418a;
 }
 
 .title-lasanha{
@@ -616,6 +624,7 @@ body{
     width: 400px;
     font-family: Pompiere, Arial, Helvetica, sans-serif;
     color: #ede7d4;
+    background-color: rgba(222, 184, 135, 0.562);
 }
 
 .pd1{
@@ -623,6 +632,7 @@ body{
     color: white;
     font-size: 23px;
     margin-top: 10px;
+    background-color: rgba(216, 112, 147, 0.397);
 }
 
 .pd2{
@@ -630,6 +640,7 @@ body{
     flex-direction: column;
     margin-top: 5px;
     margin-left: 20px;
+    background-color: rgba(0, 0, 255, 0.342);
 }
 
 .pd2 li{
@@ -642,6 +653,7 @@ body{
     margin-top: 15px;
     color: white;
     font-size: 23px;
+    background-color: rgba(137, 43, 226, 0.397);
 }
 
 .pd4{
@@ -649,6 +661,7 @@ body{
     flex-direction: column;
     margin-top: 5px;
     margin-left: 20px;
+    background-color: rgba(95, 158, 160, 0.493);
 }
 
 .pd4 li{
@@ -663,6 +676,7 @@ body{
     color: #d4a70c;
     text-align: right;
     margin-left: 20px;
+    background-color: rgba(0, 0, 0, 0.37);
 }
 
 .imagem-drt{
@@ -670,6 +684,7 @@ body{
     z-index: -100;
     margin-top: -120px;
     width: 1px;
+    background-color: rgba(255, 255, 0, 0.219);
 }
 
 .imagem-drt img{
@@ -683,6 +698,7 @@ body{
 .carrossel{
     display: flex;
     margin-top: -235px;
+    background-color: rgba(210, 105, 30, 0.664);
 }
 .carrossel img{
     display: flex;
@@ -694,6 +710,13 @@ footer{
     justify-content: center;
     align-items: center;
     height: 70px;
+    background-color: rgba(0, 255, 255, 0.288);
+}
+
+.qrcode img{
+    width: 3vw;
+    border: 3px solid #ebe2c4;
+    border-radius: 5px;
 }
 
 
