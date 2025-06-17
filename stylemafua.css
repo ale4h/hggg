@@ -913,7 +913,7 @@ footer{
         margin-left: 5vw;
     }
     .pe1{
-        font-size: 1rem;
+        font-size: 1.3rem;
     }
     .pe2{
         margin-top: 1vh;
@@ -979,5 +979,8 @@ footer{
     .caixa-texto-drt{
         width: 87vw;
         margin-left: -3vw;
+    }
+    .pd1{
+        font-size: 1.4rem;
     }
 }
