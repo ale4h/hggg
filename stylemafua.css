@@ -999,13 +999,13 @@ footer{
         font-size: 1.35rem;
     }
     .carrossel{
-        margin-top: 5vh;
+        margin-top: 1vh;
     }
     .carrossel img{
         width: 96vw;
     }
     footer{
-        margin-top: 20vh;
+        margin-top: 9vh;
         margin-left: -5vw;
     }
     footer p{
