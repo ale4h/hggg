@@ -282,12 +282,10 @@ body{
     display: flex;
     flex-direction: column;
     width: 60%;
-    background-color: rgba(0, 0, 0, 0.452);
 }
 .logo-redes{
     margin-top: 2.4vh;
     z-index: 1;
-    background-color: rgba(255, 192, 203, 0.322);
 }
 .redes2{
     width: 10.99vw;
@@ -295,7 +293,6 @@ body{
     margin-left: 9.52vw;
     margin-top: -1.6vh;
     z-index: 1;
-    background-color: rgba(0, 0, 255, 0.342);
 }
 .redes2 ul{
     display: flex;
@@ -325,13 +322,11 @@ body{
     margin-left: 27.11vw;
     margin-top: -37vh;
     z-index: 1;
-    background-color: rgba(255, 166, 0, 0.336);
 }
 .texto9{
     font-family: Special Elite, serif, Arial, Helvetica, sans-serif;
     font-size: 1.75rem;
     color: white;
-    background-color: rgba(0, 255, 255, 0.205);
 }
 .subtexto{
     display: flex;
@@ -340,7 +335,6 @@ body{
     margin-left: 0.75vw;
     font-family: Pompiere, Arial, Helvetica, sans-serif;
     gap: 5px;
-    background-color: rgba(255, 0, 0, 0.247);
 }
 .p1{
     font-size: 1.56rem;
@@ -359,7 +353,6 @@ body{
     flex-direction: column;
     text-align: right;
     width: 40%;
-    background-color: rgba(245, 245, 220, 0.24);
 }
 .chapeu{
     display: flex;
@@ -371,7 +364,6 @@ body{
     margin-top: 9.8vh;
     margin-left: 12.38vw;
     z-index: 1;
-    background-color: rgba(255, 166, 0, 0.336);
 }
 .chapeu img{
     width: 21.98vw;
@@ -379,17 +371,14 @@ body{
 .caixa-texto3{
     margin-right: 6.59vw;
     margin-top: 15.4vh;
-    background-color: rgba(128, 0, 128, 0.322);
 }
 .texto10{
     font-family: Special Elite, serif, Arial, Helvetica, sans-serif;
     font-size: 1.75rem;
     color: white;
-    background-color: rgba(255, 0, 0, 0.308);
 }
 .subtexto2{
     font-family: Pompiere, Arial, Helvetica, sans-serif;
-    background-color: rgba(255, 192, 203, 0.212);
 }
 .p4{
     font-size: 1.56rem;
@@ -404,7 +393,6 @@ body{
     height: 9,6vh;
     margin-left: 23.44vw;
     z-index: 1;
-    background-color: rgba(0, 0, 0, 0.295);
 }
 .redes3 ul{
     display: flex;
@@ -480,6 +468,7 @@ body{
     margin-left: 170px;
     font-family: Pompiere, Arial, Helvetica, sans-serif;
     color: #ede7d4;
+    background-color: rgba(0, 0, 0, 0.301);
 }
 
 .pe1{
@@ -488,17 +477,20 @@ body{
     font-family: Pompiere, Arial, Helvetica, sans-serif;
     color: #d4a70c;
     font-size: 20px;
+    background-color: rgba(128, 0, 128, 0.322);
 }
 
 .pe2{
     display: flex;
     flex-direction: column;
     margin-left: 20px;
+    background-color: rgba(74, 2, 88, 0.39);
 }
 
 .pe2 li{
     margin-top: 5px;
     font-size: 20px;
+    background-color: ;
 }
 
 .pe3{
