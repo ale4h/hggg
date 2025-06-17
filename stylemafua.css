@@ -883,4 +883,26 @@ footer{
     .redes3{
         display: none;
     }
+    #menu{
+        width: 100%;
+        height: 200vh;
+        display: flex;
+        flex-direction: column;
+    }
+    .caixa-esq{
+        width: 100%;
+        justify-content: center;
+        align-items: center;
+    }
+    .esq-cima{
+        display: none;
+    }
+    .title-combo{
+        font-size: 0.8rem;
+        width: 65vw;
+        margin-top: 5vh;
+    }
+    .img-meio{
+        display: none;
+    }
 }
