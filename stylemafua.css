@@ -802,10 +802,28 @@ footer{
         width: 50%;
     }
     .logo-redes{
+        height: 19vh;
         margin-left: 20vw;
     }
     .logo-redes img{
         width: 200vw;
+    }
+    .redes2{
+        margin-top: 1vh;
+        margin-left: 20vw;
+    }
+    .redes2 ul li button i{
+    font-size: xx-large;
+    }
+    .WhatsApp2 i:hover{
+    font-size: 3.3rem;
+    }
+    .Instagram2 i:hover{
+    font-size: 3.3rem;
+    }
+    .caixa-texto2{
+        margin-top: 2vh;
+        margin-left: 5vw;
     }
     .direita{
         width: 50%;
